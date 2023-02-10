@@ -1,0 +1,1 @@
+gcp_project_ids  = {"web" : "upheld-apricot-375101", "data" : "robotic-sector-377415", "gke" : "crested-pursuit-377417"}
